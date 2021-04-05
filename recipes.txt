@@ -6,3 +6,6 @@ welcome to keer's kitchen
 kheer
 Pasta
 Roti
+
+beans
+Pizza
